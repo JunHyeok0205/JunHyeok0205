@@ -10,9 +10,13 @@
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width=20" height=20"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> </p>
+-->
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHyeok0205&layout=compact&theme=demo)
 
