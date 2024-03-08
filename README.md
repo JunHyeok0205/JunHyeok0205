@@ -22,12 +22,6 @@
 
 <br>
 
-#### Introduction
-코틀린을 공부하는 백준혁입니다.    
-여러 분야에서 새로운 앱 서비스를 하고 싶습니다.
-
-<br>
-
 #### Profile
 Name : 백준혁 (JunHyeok0205)    
 Email : wnsgur5221@gmail.com
